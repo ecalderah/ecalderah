@@ -1,4 +1,4 @@
-# Hello! I´m Edgar Caldera 👋!
+# Hallo! I´m Edgar Caldera 👋!
 
 **After thinking, I assure you my adaptability is my strongest weapon.**
 
