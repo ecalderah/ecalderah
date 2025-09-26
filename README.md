@@ -6,7 +6,7 @@
 
 ## About Me
 
-I'm a passionate student of Economics who truly enjoys Data Science, Econometrics, and Financial Analysis. Coming from a humanities background, I had to learn everything from scratch, and now, thanks to that human-centered perspective, I can apply my mathematical knowledge across various fields. My expertise spans:
+I'm a passionate student of Economics who truly enjoys Econometrics, Data analysis/science and financial projects, with a touch of behavioral analysis.. Coming from a humanities background, I had to learn everything from scratch, and now, thanks to that human-centered perspective, I can apply my mathematical knowledge across various fields. My expertise spans:
 
 - **Python** & **R**
 - **Statistical Analysis**
