@@ -1,6 +1,7 @@
 # Hallo! I´m Edgar Caldera 👋!
 
-**After thinking, I assure you my adaptability is my strongest weapon.**
+**Willkommen!
+let me tell you something...**
 
 ---
 
