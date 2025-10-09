@@ -14,6 +14,7 @@ I'm a passionate student of Economics who truly enjoys Econometrics, Data analys
 - **Trading**
 - **Econometrics**
 - **Macroeconomics**
+- **Microeconomics**
 - **Risk analytics and portafolio construction**
 
 ## Hobbies & Interests
