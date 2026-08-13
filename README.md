@@ -13,7 +13,7 @@
 
 I'm an Economics student at the **University of Guanajuato**, focused on quantitative finance, econometrics, and behavioral economics. I came into this from a humanities background, so I built my statistics, programming, and modeling skills from the ground up — and that path shapes how I work now: reproducible tools and simulators (mostly in Python, R, and C#) paired with an eye for the people and incentives behind the numbers.
 
-Right now I'm also working as a **Developer & Institutional Assistant** for the Secretaría de Finanzas del Estado de Guanajuato, building a web app to track MIR/MAC performance indicators and automating reporting with Python and Google Workspace.
+Right now I'm also working as a **Developer & Institutional Assistant** for the Secretaría de Finanzas del Estado de Guanajuato, building a web app to track some performance indicators and automating reporting with Python and Google Workspace.
 
 **Core stack:**
 
@@ -42,7 +42,7 @@ Right now I'm also working as a **Developer & Institutional Assistant** for the 
 ### Experience & Research
 
 **Developer & Institutional Assistant** — Secretaría de Finanzas del Estado de Guanajuato *(2026–present)*
-Designing a web app to track MIR/MAC indicators; automating processes with Python and Google Workspace, and producing Excel reports and institutional dashboards.
+Designing a web app to track indicators and communicate with other areas; automating processes with Python and Google Workspace, and producing Excel reports and institutional dashboards.
 
 **Research Assistant, Verano de la Ciencia vol. 45** — Universidad de Guanajuato *(2026)*
 Econometric modeling and Python automation for a study on the diffusion of municipal manufacturing specialization across Mexico (2004–2024).
@@ -63,7 +63,10 @@ Applied statistical analysis tools and experiments in Python/R — a public, eve
 **[trading-bot-w-Python](https://github.com/ecalderah/trading-bot-w-Python)**
 Prototyping automated tools in Python (with C# on the research side) for portfolio management — from signal logic to execution — applying econometrics and risk analytics to real market data.
 
-*(Both are active work-in-progress — My goal now is to push updates regularly, so check back or watch the repos.)*
+**[LaTeX_Templates](https://github.com/ecalderah/LaTeX_Templates)**
+A selection of templates I've made for different purposes, from articles to figures — built while writing academic reports and teaching LaTeX basics in the ANEE UG Python workshop.
+
+*(All three are active work-in-progress — My goal now is to push updates regularly, so check back or watch the repos.)*
 
 ---
 
@@ -77,15 +80,6 @@ HarvardX: Statistics and R (2024) · IBM: Python for Data Science, AI & Developm
 ### Beyond Code
 
 Languages, music, and martial arts fill the rest of my time — I'm currently working on my German 🇩🇪, and I learn mostly because I enjoy it, not because a course requires it.
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ecalderah&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecalderah&layout=compact&hide_border=true" />
-</p>
 
 ---
 
